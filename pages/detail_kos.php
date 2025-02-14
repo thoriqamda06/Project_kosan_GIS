@@ -103,7 +103,7 @@ if ($kosan):
                         <h1 class="text-3xl font-bold "> <?= htmlspecialchars($kosan['nama_kos']) ?></h1>
                     </div>
                     <div>
-                        <p class=" font-bold text-lg mt-4">Harga: Rp <?= $kosan['harga'], 0, ',', '.'?> / Tahun</p>
+                        <p class=" font-bold text-lg mt-4">Harga: Rp <?= number_format($kosan['harga'], 0, ',', '.') ?> / Tahun</p>
                         <p><span class="font-bold text-gray-500">Dekat Dengan:</span> <?= htmlspecialchars($kosan['universitas']) ?></p>
                         <p class="text-gray-800 font-medium my-4"><?= htmlspecialchars($kosan['deskripsi']) ?></p>
                     </div>
@@ -254,10 +254,11 @@ if ($kosan):
 
                     <!-- Bagian Bawah -->
                     <div class="p-2 flex flex-col items-center">
-                        <button class="w-full py-2 mb-2 bg-green-600 rounded-lg text-white font-semibold shadow hover:bg-green-700 transition">
-                            Hubungi Kos
-                        </button>
-                        
+                        <a href="https://wa.me/<?= htmlspecialchars($kosan['no_telepon']) ?>">
+                            <button  class="w-full py-2 px-2 mb-2 bg-green-600 rounded-lg text-white font-semibold shadow hover:bg-green-700 transition">
+                                Hubungi Kos
+                            </button>
+                        </a>
                     </div>
                 </div>
 

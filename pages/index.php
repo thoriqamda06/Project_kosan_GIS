@@ -244,29 +244,29 @@
                 <div class=" w-full grid grid-cols-3 gap-6 p-2 ">
                     <div class="relative   wow animate__animated animate__fadeInUp " data-wow-delay="0.2s" onclick="window.location.href='kosan.php?universitas=UNIVERSITAS MALIKUSSALEH'">
                         <img class="w-full object-cover rounded-xl " src="../src/img/depanunimal.jpeg" alt="">
-                        <a href="">
+                        
                             <div class="absolute top-0 flex items-center bg-white justify-center w-8 h-8 rounded-full right-0 m-2"> 
                             <svg fill="#000000" width="70px" height="70px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>ionicons-v5-f</title><path d="M256,48h0A208.23,208.23,0,0,0,48,256c0,114.68,93.31,208,208,208h0A208.23,208.23,0,0,0,464,256C464,141.31,370.69,48,256,48Zm-8,361V264H104l-1,0,259-114.11Z"></path></g></svg>    
                         </div>
-                        </a>
+                        
                         <p class="absolute w-full text-white bg-black/80 text-center font-semibold text-lg bottom-10 z-999 ">UNIMAL</p>
                     </div>
                     <div class="relative wow animate__animated animate__fadeInUp " data-wow-delay="0.5s" onclick="window.location.href='kosan.php?universitas=POLTEK'">
                         <img class="w-full object-cover rounded-xl" src="../src/img/depanpolteklhok.png" alt="">
-                        <a href="">
+                        
                             <div class="absolute top-0 flex items-center bg-white justify-center w-8 h-8 rounded-full right-0 m-2"> 
                             <svg fill="#000000" width="70px" height="70px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>ionicons-v5-f</title><path d="M256,48h0A208.23,208.23,0,0,0,48,256c0,114.68,93.31,208,208,208h0A208.23,208.23,0,0,0,464,256C464,141.31,370.69,48,256,48Zm-8,361V264H104l-1,0,259-114.11Z"></path></g></svg>    
                         </div>
-                        </a>
+                        
                         <p class="absolute w-full text-white bg-black/80 text-center font-semibold text-lg bottom-10">POLTEK</p>
                     </div>
                     <div class="relative wow animate__animated animate__fadeInUp " data-wow-delay="0.9s" onclick="window.location.href='kosan.php?universitas=IAIN'">
                         <img class="w-full object-cover rounded-xl" src="../src/img/depaniain.jpeg" alt="">
-                        <a href="">
+                        
                             <div class="absolute top-0 flex items-center bg-white justify-center w-8 h-8 rounded-full right-0 m-2"> 
                             <svg fill="#000000" width="70px" height="70px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>ionicons-v5-f</title><path d="M256,48h0A208.23,208.23,0,0,0,48,256c0,114.68,93.31,208,208,208h0A208.23,208.23,0,0,0,464,256C464,141.31,370.69,48,256,48Zm-8,361V264H104l-1,0,259-114.11Z"></path></g></svg>    
                         </div>
-                        </a>
+                        
                         <p class="absolute w-full text-white bg-black/80 text-center font-semibold text-lg bottom-10">IAIN</p>
                     </div>
                      
@@ -317,31 +317,31 @@
             <a href="kosan.php?universitas=IAIN">
                 <div class=" h-20 flex flex-row justify-center gap-4 bg-gray-200 shadow-xl py-2 pl-8 cursor-pointer" onclick="window.location.href='kosan.php?universitas='">
                     <img src="https://assets.nsd.co.id/images/kampus/logo/ODBBQjQxMTgtQzBCMS00RUMzLTg4QkYtOTU1RUVDMEUzRTRF.png" alt="iain">
-                        <p class="pt-3 text-center">INSTITUT AGAMA ISLAM NEGERI LHOKSEUMAWE</p>
+                        <p class="text-center">INSTITUT AGAMA ISLAM NEGERI LHOKSEUMAWE</p>
                 </div>
             </a>
             <a href="kosan.php?universitas=UNIKI">
                 <div class=" h-20 flex flex-row justify-center gap-4 bg-gray-200 shadow-xl py-2 pl-8 cursor-pointer" onclick="window.location.href='kosan.php?universitas='">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_Resmi_UNIKI.png" alt="uniki">
-                        <p class="pt-3 text-center">UNIVERSITAS ISLAM KEBANGSAAN INDONESIA</p>
+                        <p class="text-center">UNIVERSITAS ISLAM KEBANGSAAN INDONESIA</p>
                 </div>
             </a>
             <a href="kosan.php?universitas=STIKES DARUSSALAM">
                 <div class=" h-20 flex flex-row justify-center gap-4 bg-gray-200 shadow-xl py-2 pl-8 cursor-pointer" onclick="window.location.href='kosan.php?universitas='">
                     <img src="https://sdl.ac.id/images/atribut/logosdl.png" alt="stikkes_darsa">
-                        <p class="pt-3 text-center">STIKKES DARUSSALAM LHOKSEUMAWE</p>
+                        <p class="text-center">STIKKES DARUSSALAM LHOKSEUMAWE</p>
                 </div>
             </a>
             <a href="kosan.php?universitas=STIKKES MUHAMMADIYAH">
                 <div class=" h-20 flex flex-row justify-center gap-4 bg-gray-200 shadow-xl py-2 pl-8 cursor-pointer" onclick="window.location.href='kosan.php?universitas='">
                     <img src="../uploads/stikkes_muhammadiyah.png" alt="stikkes_muhammadiyah">
-                        <p class="pt-3 text-center">STIKKES MUHAMMADIYAH LHOKSEUMAWE</p>
+                        <p class="text-center">STIKKES MUHAMMADIYAH LHOKSEUMAWE</p>
                 </div>
             </a>
             <a href="kosan.php?universitas=ALBANNA">
                 <div class=" h-20 flex flex-row justify-center gap-4 bg-gray-200 shadow-xl py-2 pl-8 cursor-pointer" onclick="window.location.href='kosan.php?universitas='">
                     <img src="../uploads/albanna.png" alt="albanna">
-                        <p class="pt-3 text-center">SEKOLAH TINGGI ILMU HUKUM AL-BANNA</p>
+                        <p class="text-center">SEKOLAH TINGGI ILMU HUKUM AL-BANNA</p>
                 </div>
             </a>
             <a href="kosan.php?universitas=GETSEMPANA LHOKSUKON">
@@ -353,7 +353,7 @@
             <a href="kosan.php?universitas=STAI">
                 <div class=" h-20 flex flex-row justify-center gap-4 bg-gray-200 shadow-xl py-2 pl-8 cursor-pointer" onclick="window.location.href='kosan.php?universitas='">
                     <img src="../uploads/stai.png" alt="stai">
-                        <p class="pt-3 text-center">STAI JAMIATUT TARBIYAH LHOKSUKON </p>
+                        <p class="text-center">STAI JAMIATUT TARBIYAH LHOKSUKON </p>
                 </div>
             </a>
          </div>

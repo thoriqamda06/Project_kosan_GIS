@@ -506,8 +506,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
             <select name="jarakuniversitas" id="jarakuniversitas" required class="border border-gray-300 rounded-md p-2"
                 onchange="updateDistance()">
-                <option value="1" data-lat="5.20309" data-lng="97.06270">UNIVERSITAS MALIKUSSALEH</option>
-                <option value="2" data-lat="5.120679" data-lng="97.158376">POLTEK LHOKSEUMAWE</option>
+                <option value="1" data-lat="5.234752" data-lng="96.987710">UNIVERSITAS MALIKUSSALEH</option>
+                <option value="2" data-lat="5.12066" data-lng="97.15857">POLTEK LHOKSEUMAWE</option>
                 <option value="3" data-lat="5.18014" data-lng="97.13316">STIE LHOKSEUMAWE</option>
                 <option value="4" data-lat="5.18009" data-lng="97.13343">STIA LHOKSEUMAWE</option>
                 <option value="5" data-lat="5.13270" data-lng="97.15147">UNIVERSITAS BUMI PERSADA</option>

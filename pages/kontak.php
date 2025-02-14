@@ -38,14 +38,14 @@
             </div>
             <img src="../src/img/awakkoss.png" alt="awakkos" class="w-32 sm:w-48 mx-auto mb-4">
             <p class="text-gray-600 mb-6">Hallo syedara long, meseu na perle informasi jet langsong neu hubungi long secara pribadi.</p>
-            <div class="flex flex-col gap-4">
-                <a href="https://wa.me/6285214970768" target="_blank" class="w-full flex items-center gap-2 px-4 py-2 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition">
+            <div class="flex flex-col gap-4 max-w-sm mx-auto">
+                <a href="https://wa.me/6285214970768" target="_blank" class="w-full flex items-center justify-center gap-2 px-4 py-2 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="w-6 h-6"> WhatsApp
                 </a>
-                <a href="https://www.instagram.com/althoriqamda_" target="_blank" class="w-full flex items-center gap-2 px-4 py-2 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition">
+                <a href="https://www.instagram.com/althoriqamda_" target="_blank" class="w-full flex items-center justify-center gap-2 px-4 py-2 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" class="w-6 h-6"> Instagram
                 </a>
-                <a href="mailto:al-thoriq.200170278@mhs.unimal.ac.id" class="w-full flex items-center gap-2 px-4 py-2 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition">
+                <a href="mailto:al-thoriq.200170278@mhs.unimal.ac.id" class="w-full flex items-center justify-center gap-2 px-4 py-2 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail" class="w-6 h-6"> Gmail
                 </a>
             </div>
